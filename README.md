@@ -35,7 +35,7 @@ A comprehensive MySQL-based e-commerce inventory management solution featuring r
    - `04_order_processing.sql` - Order management procedures
    - `05_inventory_management.sql` - Stock control procedures  
    - `06_business_analytics.sql` - Reporting and analytics
-   - `08_demo_script.sql` - Complete system demonstration
+   - `07_demo_script.sql` - Complete system demonstration
 
 ### 💻 **Using Command Line**
 ```bash
@@ -97,7 +97,7 @@ inventory-management-system/
 ├── 📋 Core Database Files
 │   ├── 01_database_schema.sql      # Tables, triggers, views, and constraints
 │   ├── 02_sample_data.sql          # Realistic test data and examples
-│   └── 08_demo_script.sql          # Complete system demonstration
+│   └── 07_demo_script.sql          # Complete system demonstration
 │
 ├── 🔧 Business Logic Modules  
 │   ├── 03_core_operations.sql      # CRUD operations and basic functions
@@ -108,7 +108,6 @@ inventory-management-system/
 └── 📖 Documentation
     ├── README.md                   # This file
     ├── QUICK_START.md              # Setup and installation guide
-    └── DELIVERABLES_COMPLIANCE.sql # Project requirements mapping
 ```
 
 ## 🎯 Use Cases & Applications
@@ -158,10 +157,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Issues:** Report bugs or request features via [GitHub Issues](https://github.com/yourusername/inventory-management-system/issues)
+- 🐛 **Issues:** Report bugs or request features via [GitHub Issues](https://github.com/Sudais143/inventory-management-system/issues)
 - 📧 **Questions:** Open a discussion for general questions
 - ⭐ **Star this repo** if you find it helpful!
 
 ---
+
 
 **Made with ❤️ for the database community**
